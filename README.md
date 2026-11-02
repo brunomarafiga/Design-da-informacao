@@ -114,3 +114,12 @@ Design-da-informa-o/
 ## 📄 Licença
 
 Projeto acadêmico sem fins comerciais. As marcas, logotipos e conteúdos do SiBi/UFPR são de propriedade da Universidade Federal do Paraná.
+
+## Contexto do projeto
+
+- **Categoria:** Design de interfaces
+- **Temas e tecnologias:** HTML, CSS, JavaScript, acessibilidade e redesign do SiBi UFPR
+- **Visibilidade:** Público
+- **Repositório:** <https://github.com/brunomarafiga/Design-da-informacao>
+
+Este README apresenta o objetivo, a organização e as instruções de uso do projeto. Consulte os arquivos e diretórios do repositório para detalhes de implementação e materiais complementares.
